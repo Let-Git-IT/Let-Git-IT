@@ -17,3 +17,6 @@
 ![js](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![js](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MinsG02&theme=dark&locale=ko&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
