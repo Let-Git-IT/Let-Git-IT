@@ -1,22 +1,26 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinsG02)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Let-Git-IT/Let-Git-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinsG02)](https://github.com/anuraghazra/github-readme-stats) //사용한 언어 비율 위젯
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinG02)](https://github.com/anuraghazra/github-readme-stats) //깃허브 평판 위젯
-
-![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![js](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=whit)
-![js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![js](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![js](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MinsG02&theme=dark&locale=ko&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=59f7ca&height=180&text=Minseong's%20Github&animation=blink&fontColor=d04d0f&fontSize=90" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> "Slow but steady wins the race!" </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 지금부터, 하나하나 남겨보자. </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+          </div>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;">  </div>  <br> 
+    <div style="text-align: left;">  </div> 
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=MinsG02&custom_title=MinsG02's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
+        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinsG02&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+          /> </div> 
+    </div>
+    
