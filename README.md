@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=59f7ca&height=180&text=Minseong's%20Github&animation=blink&fontColor=d04d0f&fontSize=90" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> "Slow but steady wins the race!" </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> "Slow and steady wins the race!" </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 지금부터, 하나하나 남겨보자. </div> 
     </div>
     <div style="text-align: left;">
