@@ -1,3 +1,4 @@
+/*
 <style>
   .container {
     text-align: center;
@@ -20,7 +21,7 @@
     margin-top: 20px;
   }
 </style>
-
+*/
 <div class="container">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=59f7ca&height=180&text=Minseong's%20Github&animation=blink&fontColor=d04d0f&fontSize=90">
   
