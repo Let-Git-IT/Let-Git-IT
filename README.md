@@ -1,27 +1,3 @@
-/*
-<style>
-  .container {
-    text-align: center;
-    color: #282d33;
-  }
-  .quote {
-    border-bottom: 1px solid #d8dee4;
-    font-size: 20px;
-    margin-bottom: 20px;
-  }
-  .tech-stacks {
-    border-bottom: 1px solid #d8dee4;
-    margin-bottom: 20px;
-  }
-  .contact-me {
-    border-bottom: 1px solid #d8dee4;
-    margin-bottom: 20px;
-  }
-  .stats {
-    margin-top: 20px;
-  }
-</style>
-*/
 <div class="container">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=59f7ca&height=180&text=Minseong's%20Github&animation=blink&fontColor=d04d0f&fontSize=90">
   
